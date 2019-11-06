@@ -28,6 +28,12 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 ### No Mercado de Trabalho 
 #### Desenvolvedor Java Junior - Coopersystem (22/03/2019 - Atual)
 Lotado na Fábrica de soluções digitais, Presto Serviço como desenvolvedor Back-end de nível junior, atuando com Java 8 e 11 , e as frameworks presentes no SpringBoot, como Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas
+<br>
+<br>
+<br>
+<br>
+<br>
+
 #### Estagiário - Caesb (01/03/2018 - 21/03/2019)
 Lotado na assessoria de Tecnologia da Informação, Prestei diversos serviços Administrativos e de T.I. para a Caesb. Alguns serviços de T.I. são : Desenvolvimento de Páginas WEB para Microsoft Sharepoint com HTML, CSS E JavaScript, e participação no desenvolvimento da apliação web da Eecola Corporativa da Caesb (GESCOLA), atuando com Java 5, JPA, JAX-RS e outros.
 <br>
