@@ -1,11 +1,11 @@
 # Márcio Alexandre Freire Sindeaux
-**Nome:** Márcio Alexandre Freire Sindeaux
-**Estado Civil:** Soilteiro
-**Idade:** 20 anos
-**Email:** sindeaux1999@hotmail.com
-**Cidade:** Águas Claras
-**Celular:** (61) 99556-6929
-**LinkedIn:** [Márcio Alexandre Freire Sindeaux](https://www.linkedin.com/in/m%C3%A1rcio-alexandre-freire-sindeaux-799431148)
+**Nome:** Márcio Alexandre Freire Sindeaux<br>
+**Estado Civil:** Soilteiro<br>
+**Idade:** 20 anos<br>
+**Email:** sindeaux1999@hotmail.com<br>
+**Cidade:** Águas Claras<br>
+**Celular:** (61) 99556-6929<br>
+**LinkedIn:** [Márcio Alexandre Freire Sindeaux](https://www.linkedin.com/in/m%C3%A1rcio-alexandre-freire-sindeaux-799431148)<br>
 **GitHub:** [marciosindeaux](https://github.com/marciosindeaux)
 ___
 ## Perfil 
