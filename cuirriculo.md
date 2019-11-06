@@ -56,3 +56,6 @@ Monitor das Disciplinas de Tópicos de Matemática e Calculo 01
  * Facilidade e Vontade de aprender
  * Organização 
  * Gestão de Tempo
+
+## Cursos e Treinamentos
+ * Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30 h)
