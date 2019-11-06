@@ -26,8 +26,6 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 
 ## Experiencia
 ### No Mercado de Trabalho 
-<br>
-
 #### Desenvolvedor Java Junior - Coopersystem (22/03/2019 - Atual)
 Lotado na Fábrica de soluções digitais, Presto Serviço como desenvolvedor Back-end de nível junior, atuando com Java 8 e 11 , e as frameworks presentes no SpringBoot, como Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas
 #### Estagiário - Caesb (01/03/2018 - 21/03/2019)
@@ -35,8 +33,6 @@ Lotado na assessoria de Tecnologia da Informação, Prestei diversos serviços A
 <br>
 
 ### Na Faculdade
-<br>
-
 #### Monitor de Disciplina - IESB (02/2019 - 06/2019)
 Monitor das disciplinas de Algoritmos 1, Algoritmos 2 e Estrutura de Dados 
 #### Monitor de Disciplina - IESB (07/2018 - 11/2018)
