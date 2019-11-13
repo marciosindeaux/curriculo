@@ -9,7 +9,7 @@
 **GitHub:** [marciosindeaux](https://github.com/marciosindeaux)
 ___
 ## Perfil 
-Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimento de sistemas (UniCesuamr). Buco crescimento profissional e experiencia no mercado na área de programação para WEB
+Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimento de sistemas (UniCesumar). Busco crescimento profissional e experiẽncia no mercado na área de programação para WEB
 
 ## Conhecimentos 
  * Git: Intermediario
@@ -19,6 +19,7 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
  * Java : Intermediário
  * API REST : Básico
  * JPA: Intermediário
+ * TDD: Intermediário
 
 ## Formação Academica 
  * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre)
