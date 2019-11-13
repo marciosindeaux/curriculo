@@ -42,12 +42,6 @@ Lotado na assessoria de Tecnologia da Informação, Prestei diversos serviços A
 ### Na Faculdade
 #### Monitor de Disciplina - IESB (02/2019 - 06/2019)
 Monitor das disciplinas de Algoritmos 1, Algoritmos 2 e Estrutura de Dados 
-#### Monitor de Disciplina - IESB (07/2018 - 11/2018)
-Monitor das disciplinas de Algebra Linear, Sistemas Digitais e Física 2
-#### Monitor de Disciplina - IESB (02/2019 - 06/2019)
-Monitor da disciplina de Geometria Analítica
-#### Monitor de Disciplina - IESB (07/2017 - 11/2017)
-Monitor das Disciplinas de Tópicos de Matemática e Calculo 01
 <br>
 
 ## Competencias
