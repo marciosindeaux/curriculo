@@ -26,7 +26,7 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 
 ## Experiencia
 ### No Mercado de Trabalho 
-#### Desenvolvedor Java Junior - Coopersystem (22/03/2019 - Atual)
+#### Desenvolvedor Java Junior - Coopersystem (22/03/2019 - 14/11/2019)
 Lotado na Fábrica de soluções digitais, Presto Serviço como desenvolvedor Back-end de nível junior, atuando com Java 8 e 11 , e as frameworks presentes no SpringBoot, como Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas
 <br>
 <br>
