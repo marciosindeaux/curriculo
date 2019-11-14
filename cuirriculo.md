@@ -51,4 +51,4 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados
  * Gestão de Tempo
 
 ## Cursos e Treinamentos
- * Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30 h)
+ * [Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30 h)](https://cursos.alura.com.br/user/sindeaux1999/career/iniciando-com-sql-e-mysql/certificate)
