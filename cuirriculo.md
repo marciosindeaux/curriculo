@@ -19,13 +19,13 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
  * API REST: Básico
  * JPA: Intermediário
  * TDD: Intermediário
-
+<br>
 <br>
 
 ## Formação Academica 
  * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre)
  * Engenharia de Computação (IESB - 5° Semestre)
-
+<br>
 <br>
 
 ## Experiência
