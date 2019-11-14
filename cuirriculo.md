@@ -19,31 +19,30 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
  * API REST: Básico
  * JPA: Intermediário
  * TDD: Intermediário
+<br>
+<br>
 
 ## Formação Academica 
  * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre)
  * Engenharia de Computação (IESB - 5° Semestre)
+<br>
+<br>
 
-## Experiencia
+## Experiência
 ### No Mercado de Trabalho 
-#### Desenvolvedor Java Junior - Coopersystem (22/03/2019 - 14/11/2019)
-Lotado na Fábrica de soluções digitais, Presto Serviço como desenvolvedor Back-end de nível junior, atuando com Java 8 e 11 , e as frameworks presentes no SpringBoot, como Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas
-<br>
-<br>
-<br>
-<br>
-<br>
+#### Desenvolvedor Java Júnior - Coopersystem (18/03/2019 - Atual)
+Lotado na Fábrica de soluções digitais, prestando serviços de desenvolvimento focado em Back-end, de nível júnior. Atuando com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH).
 
 #### Estagiário - Caesb (01/03/2018 - 21/03/2019)
-Lotado na assessoria de Tecnologia da Informação, Prestei diversos serviços Administrativos e de T.I. para a Caesb. Alguns serviços de T.I. são : Desenvolvimento de Páginas WEB para Microsoft Sharepoint com HTML, CSS E JavaScript, e participação no desenvolvimento da apliação web da Eecola Corporativa da Caesb (GESCOLA), atuando com Java 5, JPA, JAX-RS e outros.
+Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java 5, JPA e JAX-RS. Além disso,  foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript.
 <br>
 
 ### Na Faculdade
-#### Monitor de Disciplina - IESB (02/2019 - 06/2019)
-Monitor das disciplinas de Algoritmos 1, Algoritmos 2 e Estrutura de Dados 
+#### Monitor de Disciplinas - IESB (02/2019 - 06/2019)
+Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados 
 <br>
 
-## Competencias
+## Competências
  * Dinamismo
  * Trabalho em equipe 
  * Proatividade
