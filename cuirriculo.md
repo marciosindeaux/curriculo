@@ -6,7 +6,7 @@
 **Cidade:** Águas Claras<br>
 **Celular:** (61) 99556-6929<br>
 **LinkedIn:** [Márcio Alexandre Freire Sindeaux](https://www.linkedin.com/in/m%C3%A1rcio-alexandre-freire-sindeaux-799431148)<br>
-**GitHub:** [marciosindeaux](https://github.com/marciosindeaux)
+**GitHub:** [marciosindeaux](https://github.com/marciosindeaux)<br>
 ___
 ## Perfil 
 Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimento de sistemas (UniCesumar). Em busca de crescimento profissional e experiência no mercado na área de programação para WEB
