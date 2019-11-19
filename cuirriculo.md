@@ -34,7 +34,7 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 Lotado na Fábrica de soluções digitais, prestando serviços de desenvolvimento focado em Back-end, de nível júnior. Atuando com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH).
 
 #### Estagiário - Caesb (01/03/2018 - 21/03/2019)
-Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java 5, JPA e JAX-RS. Além disso,  foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript.
+Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA e JAX-RS. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript.
 <br>
 
 ### Na Faculdade
