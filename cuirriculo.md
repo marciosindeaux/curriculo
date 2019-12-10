@@ -1,9 +1,8 @@
 # Márcio Alexandre Freire Sindeaux
 **Nome:** Márcio Alexandre Freire Sindeaux<br>
-**Estado Civil:** Soilteiro<br>
 **Idade:** 20 anos<br>
-**Email:** sindeaux1999@hotmail.com<br>
 **Cidade:** Águas Claras<br>
+**Email:** sindeaux1999@hotmail.com<br>
 **Celular:** (61) 99556-6929<br>
 **LinkedIn:** [Márcio Alexandre Freire Sindeaux](https://www.linkedin.com/in/m%C3%A1rcio-alexandre-freire-sindeaux-799431148)<br>
 **GitHub:** [marciosindeaux](https://github.com/marciosindeaux)<br>
@@ -23,23 +22,23 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 <br>
 
 ## Formação Academica 
- * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre)
- * Engenharia de Computação (IESB - 5° Semestre)
+ * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre em andamento)
+ * Engenharia de Computação (IESB - 5° Semestre trancado)
 <br>
 <br>
 
 ## Experiência
 ### No Mercado de Trabalho 
-#### Desenvolvedor Java Júnior - Coopersystem (18/03/2019 - Atual)
-Lotado na Fábrica de soluções digitais, prestando serviços de desenvolvimento focado em Back-end, de nível júnior. Atuando com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH).
+#### Desenvolvedor Java Júnior - Coopersystem (18/03/2019 - 15/11/2019)
+Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
 
 #### Estagiário - Caesb (01/03/2018 - 21/03/2019)
-Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA e JAX-RS. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript.
+Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript.
 <br>
 
 ### Na Faculdade
 #### Monitor de Disciplinas - IESB (02/2019 - 06/2019)
-Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados 
+Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Python
 <br>
 
 ## Competências
@@ -52,3 +51,4 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados
 
 ## Cursos e Treinamentos
  * [Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30 h)](https://cursos.alura.com.br/user/sindeaux1999/career/iniciando-com-sql-e-mysql/certificate)
+ * [Alura Cursos Online - Formação Oracle One : Java (120h)](https://cursos.alura.com.br/user/sindeaux1999/degree-oracleone-java-9004/certificate)
