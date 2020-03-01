@@ -29,10 +29,14 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 
 ## Experiência
 ### No Mercado de Trabalho 
-#### Desenvolvedor Java Júnior - Coopersystem (18/03/2019 - 15/11/2019)
+#### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - Atual)
+Lotado na Area de Desenvolvimento , atuo com Java no Back-end, usando JPA e Jersey para construção de APIs REST, Vuejs no Front-end, com axios, BootstrapVue, Vuex e VueRouter na construção de SPAs. Atuo com diversos projetos internos da Empresa
+
+
+#### Desenvolvedor Java Júnior - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
 
-#### Estagiário - Caesb (01/03/2018 - 21/03/2019)
+#### Estagiário - Caesb (03/2018 - 03/2019)
 Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript.
 <br>
 
