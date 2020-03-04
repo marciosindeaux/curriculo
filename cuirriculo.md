@@ -18,20 +18,15 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
  * API REST: Básico
  * JPA: Intermediário
  * TDD: Intermediário
-<br>
-<br>
 
 ## Formação Academica 
  * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre em andamento)
  * Engenharia de Computação (IESB - 5° Semestre trancado)
-<br>
-<br>
 
 ## Experiência
 ### No Mercado de Trabalho 
 #### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - Atual)
 Lotado na Area de Desenvolvimento , atuo com Java no Back-end, usando JPA e Jersey para construção de APIs REST, Vuejs no Front-end, com axios, BootstrapVue, Vuex e VueRouter na construção de SPAs. Atuo com diversos projetos internos da Empresa
-
 
 #### Desenvolvedor Java Júnior - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
@@ -56,3 +51,7 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
 ## Cursos e Treinamentos
  * [Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30 h)](https://cursos.alura.com.br/user/sindeaux1999/career/iniciando-com-sql-e-mysql/certificate)
  * [Alura Cursos Online - Formação Oracle One : Java (120h)](https://cursos.alura.com.br/user/sindeaux1999/degree-oracleone-java-9004/certificate)
+ 
+ ## Publicação de Artigos 
+  * [Evitando dor de cabeça e separando ambientes com Perfis do Maven (Medium)](https://medium.com/@marciosindeaux/evitando-dor-de-cabe%C3%A7a-e-separando-ambientes-com-perfis-do-maven-b5ac38847c4c)
+
