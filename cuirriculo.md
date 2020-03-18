@@ -49,8 +49,9 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
  * Gestão de Tempo
 
 ## Cursos e Treinamentos
- * [Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30 h)](https://cursos.alura.com.br/user/sindeaux1999/career/iniciando-com-sql-e-mysql/certificate)
+ * [Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30h)](https://cursos.alura.com.br/user/sindeaux1999/career/iniciando-com-sql-e-mysql/certificate)
  * [Alura Cursos Online - Formação Oracle One : Java (120h)](https://cursos.alura.com.br/user/sindeaux1999/degree-oracleone-java-9004/certificate)
+ * [Alura Cursos Online - Formação Vue.js (70h)](https://cursos.alura.com.br/user/sindeaux1999/degree-vuejs-2437/certificate)
  
  ## Publicação de Artigos 
   * [Evitando dor de cabeça e separando ambientes com Perfis do Maven (Medium)](https://medium.com/@marciosindeaux/evitando-dor-de-cabe%C3%A7a-e-separando-ambientes-com-perfis-do-maven-b5ac38847c4c)
