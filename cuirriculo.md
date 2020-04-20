@@ -3,7 +3,7 @@
 **Idade:** 20 anos<br>
 **Cidade:** Águas Claras<br>
 **Email:** sindeaux1999@hotmail.com<br>
-**Celular:** (61) 99556-6929<br>
+**Celular:** (61) 98121-7133<br>
 **LinkedIn:** [Márcio Alexandre Freire Sindeaux](https://www.linkedin.com/in/m%C3%A1rcio-alexandre-freire-sindeaux-799431148)<br>
 **GitHub:** [marciosindeaux](https://github.com/marciosindeaux)<br>
 ___
@@ -12,12 +12,13 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 
 ## Conhecimentos 
  * Git: Intermediário
- * Spring Boot : Básico
+ * Spring Boot: Básico
  * SQL: Intermediário
  * Java: Intermediário
  * API REST: Básico
  * JPA: Intermediário
  * TDD: Intermediário
+ * Vuejs: Intermediário
 
 ## Formação Academica 
  * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre em andamento)
