@@ -56,5 +56,5 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
  
  ## Publicação de Artigos 
   * [Evitando dor de cabeça e separando ambientes com Perfis do Maven (Medium)](https://medium.com/@marciosindeaux/evitando-dor-de-cabe%C3%A7a-e-separando-ambientes-com-perfis-do-maven-b5ac38847c4c)
-  * [Lendo arquivos JSON no Java de forma simplificada](https://medium.com/@marciosindeaux/lendo-arquivos-json-no-java-de-forma-simplificada-693e9c89a982)
+  * [Lendo arquivos JSON no Java de forma simplificada (Medium)](https://medium.com/@marciosindeaux/lendo-arquivos-json-no-java-de-forma-simplificada-693e9c89a982)
 
