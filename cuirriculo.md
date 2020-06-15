@@ -27,7 +27,8 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 ## Experiência
 ### No Mercado de Trabalho 
 #### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - Atual)
-Lotado na Area de Desenvolvimento , atuo com Java no Back-end, usando JPA e Jersey para construção de APIs REST, Vuejs no Front-end, com axios, BootstrapVue, Vuex e VueRouter na construção de SPAs. Atuo com diversos projetos internos da Empresa
+Lotado na Area de Desenvolvimento , atuo com diversos projetos internos da Empresa, atuando na programação back-end, front-end e mobile.
+Dentre as tecnologias abordadas, Java como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc.
 
 #### Desenvolvedor Java Júnior - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
