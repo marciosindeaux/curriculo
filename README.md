@@ -49,7 +49,8 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
  * Facilidade e Vontade de aprender
  * Organização 
  * Gestão de Tempo
-
+<br>
+<br>
 ## Cursos e Treinamentos
  * [Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30h)](https://cursos.alura.com.br/user/sindeaux1999/career/iniciando-com-sql-e-mysql/certificate)
  * [Alura Cursos Online - Formação Oracle One : Java (120h)](https://cursos.alura.com.br/user/sindeaux1999/degree-oracleone-java-9004/certificate)
