@@ -56,7 +56,7 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
  * [Alura Cursos Online - Formação Vue.js (70h)](https://cursos.alura.com.br/user/sindeaux1999/degree-vuejs-2437/certificate)
  * [Alura Cursos Online - Formação Iniciante em Programação (100h)](https://cursos.alura.com.br/degree/certificate/c145da2d-2093-4d83-888c-39a46027d335)
  
- ## Publicação de Artigos 
+## Publicação de Artigos 
   * [Evitando dor de cabeça e separando ambientes com Perfis do Maven (Medium)](https://medium.com/@marciosindeaux/evitando-dor-de-cabe%C3%A7a-e-separando-ambientes-com-perfis-do-maven-b5ac38847c4c)
   * [Lendo arquivos JSON no Java de forma simplificada (Medium)](https://medium.com/@marciosindeaux/lendo-arquivos-json-no-java-de-forma-simplificada-693e9c89a982)
 
