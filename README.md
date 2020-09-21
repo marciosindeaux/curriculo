@@ -22,7 +22,7 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 
 ## Formação Academica 
  * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre em andamento)
- * Engenharia de Computação (IESB - 5° Semestre trancado)
+ * Engenharia de Computação (IESB - 5° Semestre em andamento)
 
 ## Experiência
 ### No Mercado de Trabalho 
