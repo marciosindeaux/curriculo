@@ -1,6 +1,6 @@
 # Márcio Alexandre Freire Sindeaux
 **Nome:** Márcio Alexandre Freire Sindeaux<br>
-**Idade:** 20 anos<br>
+**Idade:** 21 anos<br>
 **Cidade:** Águas Claras<br>
 **Email:** sindeaux1999@hotmail.com<br>
 **Celular:** (61) 98121-7133<br>
