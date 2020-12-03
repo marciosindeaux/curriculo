@@ -26,7 +26,10 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 
 ## Experiência
 ### No Mercado de Trabalho 
-#### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - Atual)
+
+#### Desenvolvedor Pleno - Stefanini Brasil (12/2020 - Atual)
+
+#### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - 12/2020)
 Lotado na Area de Desenvolvimento , atuo com diversos projetos internos da Empresa, atuando na programação back-end, front-end e mobile.
 Dentre as tecnologias abordadas, Java como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc.
 
