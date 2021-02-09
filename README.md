@@ -27,7 +27,7 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 ## Experiência
 ### No Mercado de Trabalho 
 
-#### Desenvolvedor Pleno - Stefanini Brasil (12/2020 - Atual)
+#### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - Atual)
 No contrato da Polícia Federal, atua com o projeto SISDOC no back-end e front-end, trabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
 
 #### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - 12/2020)
@@ -45,6 +45,13 @@ Lotado na assessoria de Tecnologia da Informação, onde foram prestados diverso
 #### Monitor de Disciplinas - IESB (02/2019 - 06/2019)
 Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Python
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Competências
  * Dinamismo
@@ -53,10 +60,6 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
  * Facilidade e Vontade de aprender
  * Organização 
  * Gestão de Tempo
-<br>
-<br>
-<br>
-<br>
 
 ## Cursos e Treinamentos
  * [Alura Cursos Online - Carreira Iniciando com SQL e MySQL (30h)](https://cursos.alura.com.br/user/sindeaux1999/career/iniciando-com-sql-e-mysql/certificate)
