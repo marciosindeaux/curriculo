@@ -72,5 +72,5 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
   * [Lendo arquivos JSON no Java de forma simplificada (Medium)](https://medium.com/@marciosindeaux/lendo-arquivos-json-no-java-de-forma-simplificada-693e9c89a982)
   
 ## Outras Publicações
-  * [Qualidade na Construção de APIS REST - Modelo de Richardson](https://www.linkedin.com/posts/m%C3%A1rcio-alexandre-freire-sindeaux-799431148_qualidade-na-constru%C3%A7%C3%A3o-de-apis-activity-6711119909738348544-1zq1)
+  * [Qualidade na Construção de APIS REST - Modelo de Richardson (LinkedIn)](https://www.linkedin.com/posts/m%C3%A1rcio-alexandre-freire-sindeaux-799431148_qualidade-na-constru%C3%A7%C3%A3o-de-apis-activity-6711119909738348544-1zq1)
 
