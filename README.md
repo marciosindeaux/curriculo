@@ -15,7 +15,7 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
  * Spring Boot: Básico
  * SQL: Intermediário
  * Java: Intermediário
- * API REST: Básico
+ * API REST: Intermediário
  * JPA: Intermediário
  * TDD: Intermediário
  * Vuejs: Intermediário
@@ -28,9 +28,10 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
 ### No Mercado de Trabalho 
 
 #### Desenvolvedor Pleno - Stefanini Brasil (12/2020 - Atual)
+No contrato da Polícia Federal, atua com o projeto SISDOC no back-end e front-end, trabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
 
 #### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - 12/2020)
-Lotado na Area de Desenvolvimento , atuo com diversos projetos internos da Empresa, atuando na programação back-end, front-end e mobile.
+Lotado na Área de Desenvolvimento , atuou com diversos projetos internos da Empresa, atuando na programação back-end, front-end e mobile.
 Dentre as tecnologias abordadas, Java como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc.
 
 #### Desenvolvedor Java Júnior - Coopersystem (03/2019 - 11/2019)
@@ -66,4 +67,7 @@ Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Pytho
 ## Publicação de Artigos 
   * [Evitando dor de cabeça e separando ambientes com Perfis do Maven (Medium)](https://medium.com/@marciosindeaux/evitando-dor-de-cabe%C3%A7a-e-separando-ambientes-com-perfis-do-maven-b5ac38847c4c)
   * [Lendo arquivos JSON no Java de forma simplificada (Medium)](https://medium.com/@marciosindeaux/lendo-arquivos-json-no-java-de-forma-simplificada-693e9c89a982)
+  
+## Outras Publicações
+  * [Qualidade na Construção de APIS REST - Modelo de Richardson](https://www.linkedin.com/posts/m%C3%A1rcio-alexandre-freire-sindeaux-799431148_qualidade-na-constru%C3%A7%C3%A3o-de-apis-activity-6711119909738348544-1zq1)
 
