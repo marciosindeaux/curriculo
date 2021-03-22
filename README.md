@@ -8,7 +8,7 @@
 **GitHub:** [marciosindeaux](https://github.com/marciosindeaux)<br>
 ___
 ## Perfil 
-Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimento de sistemas (UniCesumar). Em busca de crescimento profissional e experiência no mercado na área de programação para WEB
+Em busca de crescimento profissional e experiencia em programação. Atuando como Desenvolvedor Back-end, Front-end ou Fullstack (e DevOps nas horas de lazer). Com certa facilidade de aprender e sempre estudando.
 
 ## Conhecimentos 
  * Git: Intermediário
@@ -16,29 +16,31 @@ Atualmente Cursando Engenharia de Computação (IESB) e Análise e desenvolvimen
  * SQL: Intermediário
  * Java: Intermediário
  * API REST: Intermediário
+ * JAX-RS: Intermediário
  * JPA: Intermediário
  * TDD: Intermediário
  * Vuejs: Intermediário
+ * Angular: Intermediário
 
 ## Formação Academica 
  * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre em andamento)
- * Engenharia de Computação (IESB - 5° Semestre em andamento)
+ * Engenharia de Computação (IESB - 5° Trancado)
 
 ## Experiência
 ### No Mercado de Trabalho 
 
 #### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - Atual)
-No contrato da Polícia Federal, atua com o projeto SISDOC no back-end e front-end, trabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
+No contrato da Polícia Federal, atuando com o projeto SISDOC no back-end e front-end, trabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
 
 #### Desenvolvedor Fullstack Júnior - Hepta Tecnologia (12/2019 - 12/2020)
-Lotado na Área de Desenvolvimento , atuou com diversos projetos internos da Empresa, atuando na programação back-end, front-end e mobile.
-Dentre as tecnologias abordadas, Java como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc.
+Lotado na Área de Desenvolvimento , atuou com diversos projetos internos da Empresa, atuando na programação back-end e front-end.
+Dentre as tecnologias abordadas, Java como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc. Todos os Projetos tinham metodologias ágeis aplicadas.
 
 #### Desenvolvedor Java Júnior - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
 
 #### Estagiário - Caesb (03/2018 - 03/2019)
-Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript.
+Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript para páginas no Microsoft Sharepoint.
 <br>
 
 ### Na Faculdade
