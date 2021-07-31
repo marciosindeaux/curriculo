@@ -23,8 +23,8 @@ Em busca de crescimento profissional e experiencia em programação. Atuando com
  * Angular: Intermediário
 
 ## Formação Academica 
- * Análise e desenvolvimento de sistemas (Unicesumar - 4° Semestre em andamento)
- * Engenharia de Computação (IESB - 5° Trancado)
+ * Análise e desenvolvimento de sistemas (Unicesumar - 5° Semestre em andamento)
+ * Engenharia de Computação (IESB - 6° Trancado)
 
 ## Experiência
 ### No Mercado de Trabalho 
