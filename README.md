@@ -1,7 +1,7 @@
 # Márcio Alexandre Freire Sindeaux
 **Nome:** Márcio Alexandre Freire Sindeaux<br>
 **Idade:** 21 anos<br>
-**Cidade:** Águas Claras<br>
+**Cidade:** Brasilia<br>
 **Email:** sindeaux1999@hotmail.com<br>
 **Celular:** (61) 98121-7133<br>
 **LinkedIn:** [Márcio Alexandre Freire Sindeaux](https://www.linkedin.com/in/m%C3%A1rcio-alexandre-freire-sindeaux-799431148)<br>
@@ -11,20 +11,23 @@ ___
 Em busca de crescimento profissional e experiencia em programação. Atuando como Desenvolvedor Back-end, Front-end ou Fullstack (e DevOps nas horas de lazer). Com certa facilidade de aprender e sempre estudando.
 
 ## Conhecimentos 
- * Git: Intermediário
- * Spring Boot: Básico
- * SQL: Intermediário
- * Java: Intermediário
- * API REST: Intermediário
- * JAX-RS: Intermediário
- * JPA: Intermediário
+ * Git: Avançado
+ * Spring Boot: Intermediário
+ * SQL: Avançado
+ * Java (8 e 11): Avançado
+ * API REST: Avançado
+ * JAX-RS: Avançado
+ * JPA: Avançado
  * TDD: Intermediário
  * Vuejs: Intermediário
  * Angular: Intermediário
+ * Inglês: Basico
 
 ## Formação Academica 
- * Análise e desenvolvimento de sistemas (Unicesumar - 5° Semestre em andamento)
- * Engenharia de Computação (IESB - 6° Trancado)
+ * Pós graduação em Arquitetura de Software (UniLeYa - Em andamento)
+ * Pós graduação em Desenvolvimento de Sistemas com Java (UniLeYa - Em andamento)
+ * Tecnólogo em Análise e desenvolvimento de sistemas (Unicesumar - Completo)
+ * Bacharel em Engenharia de Computação (IESB - 6° Trancado)
 
 ## Experiência
 ### No Mercado de Trabalho 
@@ -34,7 +37,7 @@ No contrato da Polícia Federal, atuando com o projeto SISDOC no back-end e fron
 
 #### Desenvolvedor Fullstack - Hepta Tecnologia (12/2019 - 12/2020)
 Lotado na Área de Desenvolvimento , atuou com diversos projetos internos da Empresa, atuando na programação back-end e front-end.
-Dentre as tecnologias abordadas, Java como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc. Todos os Projetos tinham metodologias ágeis aplicadas.
+Dentre as tecnologias abordadas, Java (nas versões 8 e 11) como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc. Todos os Projetos tinham metodologias ágeis aplicadas.
 
 #### Desenvolvedor Java - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
