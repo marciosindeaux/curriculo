@@ -37,6 +37,7 @@ No contrato da BTG Pactual, atuando para obanco PAN. Trabalha exclusivamente com
 #### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - 02/2023)
 No contrato da Polícia Federal, atuou no back-end e front-end, trabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
 <br>
+<br>
 No contrato do DETRAN-DF, atuou com diversos projetos envolvendo microsserviços em back-end, com Java 14, Jersey, Mapstruct e JUnit, no front-end com Angular e Typescript, e no mobile com React Native. 
 
 #### Desenvolvedor Fullstack - Hepta Tecnologia (12/2019 - 12/2020)
