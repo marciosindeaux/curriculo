@@ -49,9 +49,6 @@ Dentre as tecnologias abordadas, Java (nas versões 8 e 11) como back-end, atuan
 ### Desenvolvedor Java - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
 
-### Estagiário - Companhia de Agua e Saneamento Basico do Distrito Federal (CAESB) (03/2018 - 03/2019)
-Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da aplicação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript para páginas no Microsoft Sharepoint.
-<br>
 <br>
 <br>
 <br>
