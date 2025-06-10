@@ -28,7 +28,7 @@ Desenvolvedor Backend Sênior com sólida experiência na construção de soluç
  * Tecnólogo em Análise e desenvolvimento de sistemas (Unicesumar - Completo)
  * Bacharel em Engenharia de Computação (IESB - 6° Trancado)
 
-## Experiênciatrabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
+## Experiência 
 ### No Mercado de Trabalho 
 #### Analista de sistemas Senior - Nipon Telegraph & Telecon (NTT DATA) EMEA & LATAM (02/2023 - Presente)
 
