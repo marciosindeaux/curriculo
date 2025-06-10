@@ -29,34 +29,29 @@ Desenvolvedor Backend Sênior com sólida experiência na construção de soluç
  * Bacharel em Engenharia de Computação (IESB - 6° Trancado)
 
 ## Experiência 
-### No Mercado de Trabalho 
-#### Analista de sistemas Senior - Nipon Telegraph & Telecon (NTT DATA) EMEA & LATAM (02/2023 - Presente)
+### Analista de sistemas Senior - Nipon Telegraph & Telecon (NTT DATA) EMEA & LATAM (02/2023 - Presente)
 
 No contrato com o C6 Bank, atuou exclusivamente com microsserviços utilizando Kotlin e a nuvem AWS. Dentre as tecnologias usadas no back-end, destacam-se: Gradle Kotlin DSL, Spring Boot (2.7.x e 3.x.x), Coroutines, OpenFeign, JPA, JUnit, MockK, ArchUnit, Detekt, KTLint, Flyway, OpenAPI Generator e Sonar. Utilizou containers Docker em praticamente todas as aplicações, trabalhando com imagens do Postgres, LocalStack (AWS Cloud), MongoDB e Redis. Com relação à nuvem, teve atuação extensiva com AWS, utilizando serviços como SQS, SNS, S3, EventBridge, CloudFormation e IAM. Também teve experiência com GCP, embora limitada ao uso do Apigee. Atuou em diversas frentes, sendo as mais notáveis: Chatbot/URA, Alta Renda, Services e Atacado.
 
 No contrato com o BTG Pactual, atuou no projeto do Banco PAN. Trabalhou exclusivamente com back-end em microsserviços, utilizando Java 11 e Java 17. Dentre as tecnologias e metodologias adotadas, destacam-se: Spring Boot (2.7.x e 3.x), JPA, TDD com JUnit, testes de arquitetura com ArchUnit, BDD com Cucumber, Feign Clients, MapStruct, Kafka, Confluent, arquitetura hexagonal e o orquestrador de processos Camunda, entre outros. Atuou nas squads de Empréstimo Pessoal e Saúde.
 
-#### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - 02/2023)
+### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - 02/2023)
  
 No contrato do DETRAN-DF(06/2022 - 02/2023), atuou majoritariamente com microsserviços em diversos projetos, utilizando as tecnologias Java 14, Jersey, JPA, MapStruct e JUnit. Teve participação limitada no desenvoolvimento do front-end (Angular) e do aplicativo móvel (React Native).
 
 No contrato da Polícia Federal (12/2020 - 06/2022), atuou como desenvolvedor Full Stack. No back-end, trabalhou com Java 11, Jersey, Hibernate, EJB, MapStruct, Mockito, JUnit, Jasper Reports, JPA e Maven. Utilizou extensivamente o banco de dados SQL Server.No front-end, desenvolveu com Angular 8, TypeScript, PrimeNG, RxJS, componentização, Angular Router e o framework de testes Jasmine.
 
 
-#### Desenvolvedor Fullstack - Hepta Tecnologia (12/2019 - 12/2020)
+### Desenvolvedor Fullstack - Hepta Tecnologia (12/2019 - 12/2020)
 Lotado na Área de Desenvolvimento , atuou com diversos projetos internos da Empresa, atuando na programação back-end e front-end.
 Dentre as tecnologias abordadas, Java (nas versões 8 e 11) como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc. Todos os Projetos tinham metodologias ágeis aplicadas.
 
-#### Desenvolvedor Java - Coopersystem (03/2019 - 11/2019)
+### Desenvolvedor Java - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
 
-#### Estagiário - Companhia de Agua e Saneamento Basico do Distrito Federal (CAESB) (03/2018 - 03/2019)
+### Estagiário - Companhia de Agua e Saneamento Basico do Distrito Federal (CAESB) (03/2018 - 03/2019)
 Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript para páginas no Microsoft Sharepoint.
 <br>
-
-### Na Faculdade
-#### Monitor de Disciplinas - IESB (02/2019 - 06/2019)
-Monitor de Algoritmos 1, Algoritmos 2 e Estrutura de Dados atuando com C e Python
 <br>
 <br>
 <br>
