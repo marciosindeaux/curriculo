@@ -1,6 +1,6 @@
 # Márcio Alexandre Freire Sindeaux
 **Nome:** Márcio Alexandre Freire Sindeaux<br>
-**Idade:** 23 anos<br>
+**Idade:** 25 anos<br>
 **Cidade:** Brasilia<br>
 **Email:** sindeaux1999@hotmail.com<br>
 **Celular:** (61) 98121-7133<br>
@@ -8,37 +8,40 @@
 **GitHub:** [marciosindeaux](https://github.com/marciosindeaux)<br>
 ___
 ## Perfil 
-Em busca de crescimento profissional e experiencia em programação. Atuando como Desenvolvedor Back-end, Front-end ou Fullstack (e DevOps nas horas de lazer). Com certa facilidade de aprender e sempre estudando.
+
+Desenvolvedor Backend Sênior com sólida experiência na construção de soluções robustas em Java, Kotlin e tecnologias modernas de microsserviços. Atua com excelência em projetos de alta complexidade nos setores financeiro, público e corporativo. Também possui vivência em front-end, utilizando Angular e Vue.js.
 
 ## Conhecimentos 
- * Git: Avançado
- * Spring Boot: Intermediário
- * SQL: Avançado
- * Java (8 e 11): Avançado
- * API REST: Avançado
- * JAX-RS: Avançado
- * JPA: Avançado
- * TDD: Intermediário
+ * Java (8, 11 e 17): Avançado
+ * Spring Boot: Intermediario
+ * Kotlin (1.7.20, 2.0.20): Avançado
+ * AWS: INtermediario
+ * Docker: Avançado
+ * JPA/Hibernate: Avançado
+ * TDD: Avançaçdo
  * Vuejs: Intermediário
  * Angular: Intermediário
- * Inglês: Basico
+ * Inglês: Intermediario (Boa Leitura, Boa escrita, Boa Escuta, Fala Intermediaria)
 
 ## Formação Academica 
- * Pós graduação em Arquitetura de Software (UniLeYa - Em andamento)
- * Pós graduação em Desenvolvimento de Sistemas com Java (UniLeYa - Em andamento)
+ * Pós graduação em Arquitetura de Software (UniAmerica - Em andamento)
  * Tecnólogo em Análise e desenvolvimento de sistemas (Unicesumar - Completo)
  * Bacharel em Engenharia de Computação (IESB - 6° Trancado)
 
-## Experiência
+## Experiênciatrabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
 ### No Mercado de Trabalho 
 #### Analista de sistemas Senior - Nipon Telegraph & Telecon (NTT DATA) EMEA & LATAM (02/2023 - Presente)
-No contrato da BTG Pactual, atuando para obanco PAN. Trabalha exclusivamente com back-end em microsserviços com Java 11 e Java 17. Dentre as tecnologias e metodologias aobordadas estão SpringBoot (2.7.x e 3.x), JPA, TDD com JUnit, testes de arquitetura com ArchUnit, BDD com Cucumber, Feign Clients, MapStructs, Kafka, Confluent, arquitetura hexagonal/onion, orquestrador de porocessos Camunda entre outros. Atuou nas squads de Emprestimo Pessoal e Saúde.
+
+No contrato com o C6 Bank, atuou exclusivamente com microsserviços utilizando Kotlin e a nuvem AWS. Dentre as tecnologias usadas no back-end, destacam-se: Gradle Kotlin DSL, Spring Boot (2.7.x e 3.x.x), Coroutines, OpenFeign, JPA, JUnit, MockK, ArchUnit, Detekt, KTLint, Flyway, OpenAPI Generator e Sonar. Utilizou containers Docker em praticamente todas as aplicações, trabalhando com imagens do Postgres, LocalStack (AWS Cloud), MongoDB e Redis. Com relação à nuvem, teve atuação extensiva com AWS, utilizando serviços como SQS, SNS, S3, EventBridge, CloudFormation e IAM. Também teve experiência com GCP, embora limitada ao uso do Apigee. Atuou em diversas frentes, sendo as mais notáveis: Chatbot/URA, Alta Renda, Services e Atacado.
+
+No contrato com o BTG Pactual, atuou no projeto do Banco PAN. Trabalhou exclusivamente com back-end em microsserviços, utilizando Java 11 e Java 17. Dentre as tecnologias e metodologias adotadas, destacam-se: Spring Boot (2.7.x e 3.x), JPA, TDD com JUnit, testes de arquitetura com ArchUnit, BDD com Cucumber, Feign Clients, MapStruct, Kafka, Confluent, arquitetura hexagonal e o orquestrador de processos Camunda, entre outros. Atuou nas squads de Empréstimo Pessoal e Saúde.
 
 #### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - 02/2023)
-No contrato da Polícia Federal, atuou no back-end e front-end, trabalhando com Java 11, Angular 8 e Typescript. Dentre as tecnologias usadas, para backend: Jersey, Hibernate, EJB, MapStruct, JUnit, Mockito e Jasper Reports, para front-end: Angular e PrimeNG. 
-<br>
-<br>
-No contrato do DETRAN-DF, atuou com diversos projetos envolvendo microsserviços em back-end, com Java 14, Jersey, Mapstruct e JUnit, no front-end com Angular e Typescript, e no mobile com React Native. 
+ 
+No contrato do DETRAN-DF(06/2022 - 02/2023), atuou majoritariamente com microsserviços em diversos projetos, utilizando as tecnologias Java 14, Jersey, JPA, MapStruct e JUnit. Teve participação limitada no desenvoolvimento do front-end (Angular) e do aplicativo móvel (React Native).
+
+No contrato da Polícia Federal (12/2020 - 06/2022), atuou como desenvolvedor Full Stack. No back-end, trabalhou com Java 11, Jersey, Hibernate, EJB, MapStruct, Mockito, JUnit, Jasper Reports, JPA e Maven. Utilizou extensivamente o banco de dados SQL Server.No front-end, desenvolveu com Angular 8, TypeScript, PrimeNG, RxJS, componentização, Angular Router e o framework de testes Jasmine.
+
 
 #### Desenvolvedor Fullstack - Hepta Tecnologia (12/2019 - 12/2020)
 Lotado na Área de Desenvolvimento , atuou com diversos projetos internos da Empresa, atuando na programação back-end e front-end.
