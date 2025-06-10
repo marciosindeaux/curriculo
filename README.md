@@ -13,15 +13,15 @@ Desenvolvedor Backend Sênior com sólida experiência na construção de soluç
 
 ## Conhecimentos 
  * Java (8, 11 e 17): Avançado
- * Spring Boot: Intermediario
+ * Spring Boot: Intermediário
  * Kotlin (1.7.20, 2.0.20): Avançado
- * AWS: INtermediario
+ * AWS: Intermediário
  * Docker: Avançado
  * JPA/Hibernate: Avançado
- * TDD: Avançaçdo
+ * TDD: Avançado
  * Vuejs: Intermediário
  * Angular: Intermediário
- * Inglês: Intermediario (Boa Leitura, Boa escrita, Boa Escuta, Fala Intermediaria)
+ * Inglês: Intermediário (Boa Leitura, Boa escrita, Boa Escuta, Fala Intermediaria)
 
 ## Formação Academica 
  * Pós graduação em Arquitetura de Software (UniAmerica - Em andamento)
@@ -37,20 +37,20 @@ No contrato com o BTG Pactual, atuou no projeto do Banco PAN. Trabalhou exclusiv
 
 ### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - 02/2023)
  
-No contrato do DETRAN-DF(06/2022 - 02/2023), atuou majoritariamente com microsserviços em diversos projetos, utilizando as tecnologias Java 14, Jersey, JPA, MapStruct e JUnit. Teve participação limitada no desenvoolvimento do front-end (Angular) e do aplicativo móvel (React Native).
+No contrato do DETRAN-DF(06/2022 - 02/2023), atuou majoritariamente com microsserviços em diversos projetos, utilizando as tecnologias Java 14, Jersey, JPA, MapStruct e JUnit. Teve participação limitada no desenvolvimento do front-end (Angular) e do aplicativo móvel (React Native).
 
 No contrato da Polícia Federal (12/2020 - 06/2022), atuou como desenvolvedor Full Stack. No back-end, trabalhou com Java 11, Jersey, Hibernate, EJB, MapStruct, Mockito, JUnit, Jasper Reports, JPA e Maven. Utilizou extensivamente o banco de dados SQL Server.No front-end, desenvolveu com Angular 8, TypeScript, PrimeNG, RxJS, componentização, Angular Router e o framework de testes Jasmine.
 
 
 ### Desenvolvedor Fullstack - Hepta Tecnologia (12/2019 - 12/2020)
-Lotado na Área de Desenvolvimento , atuou com diversos projetos internos da Empresa, atuando na programação back-end e front-end.
+Lotado na Área de Desenvolvimento, atuou com diversos projetos internos da Empresa, atuando na programação back-end e front-end.
 Dentre as tecnologias abordadas, Java (nas versões 8 e 11) como back-end, atuando com as frameworks Hibernate(JPA), Jersey e Quarkus. Atuou no front-end com Vuejs na construção de SPAs, usando Vuex, Axios, BootstrapVue, Vuetify, VueRouter e etc. Todos os Projetos tinham metodologias ágeis aplicadas.
 
 ### Desenvolvedor Java - Coopersystem (03/2019 - 11/2019)
 Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento focado em Back-end, atuando na construção de APIs REST com Java 8 e 11 e as frameworks presentes no Ecossistema Spring: Spring Data JPA, Spring Security e afins. Alocado no contrato do IPEA atuando nos projetos: IPEA Bolsas e IPEA Pessoas(RH). Obteve experiência com Agile e Scrum e Desenvolvimento dirigido por Testes (TDD).
 
 ### Estagiário - Companhia de Agua e Saneamento Basico do Distrito Federal (CAESB) (03/2018 - 03/2019)
-Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da apliação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript para páginas no Microsoft Sharepoint.
+Lotado na assessoria de Tecnologia da Informação, onde foram prestados diversos serviços, dentre eles: desenvolvimento da aplicação web da escola corporativa da Caesb, atuando com Java, JPA, JAX-RS e JSF. Além disso, foi necessário lidar com a construção de páginas web usando HTML5, CSS3 e JavaScript para páginas no Microsoft Sharepoint.
 <br>
 <br>
 <br>
