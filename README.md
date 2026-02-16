@@ -1,6 +1,6 @@
 # Márcio Alexandre Freire Sindeaux
 **Nome:** Márcio Alexandre Freire Sindeaux<br>
-**Idade:** 25 anos<br>
+**Idade:** 26 anos<br>
 **Cidade:** Brasilia<br>
 **Email:** sindeaux1999@hotmail.com<br>
 **Celular:** (61) 98121-7133<br>
@@ -30,9 +30,10 @@ Desenvolvedor Backend Sênior com sólida experiência na construção de soluç
 * Bacharel em Engenharia de Computação (IESB - 6° Trancado)
 
 ## Experiência
-### Analista de sistemas Senior - Nipon Telegraph & Telecon (NTT DATA) EMEA & LATAM (02/2023 - Presente)
+### Nipon Telegraph & Telecon (NTT DATA) EMEA & LATAM (02/2023 - Presente)
+#### Techincal Senior Specialist 3 - C6 Bank (01/2024 - Presente)
 
-**No contrato com o C6 Bank** (01/2024 - presente), atuou exclusivamente com microsserviços utilizando Kotlin e a nuvem AWS. Dentre as tecnologias usadas no back-end, destacam-se: Gradle Kotlin DSL, Spring Boot (2.7.x e 3.x.x), Coroutines, OpenFeign, JPA, JUnit, MockK, ArchUnit, Detekt, KTLint, Flyway, OpenAPI Generator e Sonar. Utilizou containers Docker em praticamente todas as aplicações, trabalhando com imagens do Postgres, LocalStack (AWS Cloud), MongoDB e Redis. Com relação à nuvem, teve atuação extensiva com AWS, utilizando serviços como SQS, SNS, S3, EventBridge, CloudFormation e IAM. Também teve experiência com GCP, embora limitada ao uso do Apigee. Atuou em diversas frentes, sendo as mais notáveis: Chatbot/URA, Alta Renda, Services e Atacado.
+Atuou exclusivamente com microsserviços utilizando Kotlin e a nuvem AWS. Dentre as tecnologias usadas no back-end, destacam-se: Gradle Kotlin DSL, Spring Boot (2.7.x e 3.x.x), Coroutines, OpenFeign, JPA, JUnit, MockK, ArchUnit, Detekt, KTLint, Flyway, OpenAPI Generator e Sonar. Utilizou containers Docker em praticamente todas as aplicações, trabalhando com imagens do Postgres, LocalStack (AWS Cloud), MongoDB e Redis. Com relação à nuvem, teve atuação extensiva com AWS, utilizando serviços como SQS, SNS, S3, EventBridge, CloudFormation e IAM. Também teve experiência com GCP, embora limitada ao uso do Apigee. Atuou em diversas frentes, sendo as mais notáveis: Chatbot/URA, Alta Renda, Services e Atacado.
 
 Destaques:
 
@@ -40,12 +41,27 @@ Destaques:
 * Otimizou a velocidade de processos em mais de 400% se utilizando de paralelismo e concorrência em serviços com alta volumetria.
 * Participou da criação e manutenção de serviços e BFFs críticos que tinham na casa dos milhões de usuários diários.
 
-**No contrato com o BTG Pactual** (02/2023 - 01/2024), atuou no projeto do Banco PAN. Trabalhou exclusivamente com back-end em microsserviços, utilizando Java 11 e Java 17. Dentre as tecnologias e metodologias adotadas, destacam-se: Spring Boot (2.7.x e 3.x), JPA, TDD com JUnit, testes de arquitetura com ArchUnit, BDD com Cucumber, Feign Clients, MapStruct, Kafka, Confluent, arquitetura hexagonal e o orquestrador de processos Camunda, entre outros. Atuou nas squads de Empréstimo Pessoal e Saúde.
+#### Technical Senior Specialist 1  BTG Pactual (02/2023 - 01/2024)
+Atuou no projeto do Banco PAN. Trabalhou exclusivamente com back-end em microsserviços, utilizando Java 11 e Java 17. Dentre as tecnologias e metodologias adotadas, destacam-se: Spring Boot (2.7.x e 3.x), JPA, TDD com JUnit, testes de arquitetura com ArchUnit, BDD com Cucumber, Feign Clients, MapStruct, Kafka, Confluent, arquitetura hexagonal e o orquestrador de processos Camunda, entre outros. Atuou nas squads de Empréstimo Pessoal e Saúde.
 
 Destaques:
 
 * Atuou no desenvolvimento de diversos middlewares e BFFs críticos
 * Criou, modernizou e fez manutenção em diversos processos de negócio feitos em Camunda 7
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Desenvolvedor Fullstack Pleno - Stefanini Brasil (12/2020 - 02/2023)
 
@@ -84,15 +100,6 @@ Lotado na Fábrica de soluções digitais, prestou serviços de desenvolvimento 
 ### Estagiário - Companhia de Agua e Saneamento Basico do Distrito Federal (CAESB) (03/2018 - 03/2019)
 
 Trabalhou na Assessoria de Tecnologia da informação da empresa, especificamente na área administrativa e de desenvolvimento. Atuou com desenvolvimento com Java 5 e 8, JSF e JSP no sistema gescolaj, além disso, atuou com as ferramentas Mirosoft Sharepoint, HTML, CSS e Javascript para criação de sites e postais para a intranet. Na parte administrativa atuou com organização de documentos e arquivamento. Criou pequenos scripts em python para ler tabelas em csv e otimizar o processamento de certas tarefas repetitivas.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Competências
  * Treinamento e mentoria para Profissionais
